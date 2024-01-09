@@ -28,23 +28,24 @@ header{background-image: url('../resources/Banner\ Image.png');
         
         }
     .off{ color: #F00;
-        text-align: center;
+        align-items: center;
+        justify-items: center;
         font-family: Inter;
         font-size: 88px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
-    padding-bottom: 0px;}
+    padding-left: 450px;}
     
     .holiday{padding-top: 0px;color: #F00;
-        text-align: center;
         font-family: Inter;
+        padding-left: 435px;
         font-size: 24px;
         font-style: normal;
         font-weight: 500;
         line-height: 0;}
     .all{ color: #070211;
-            text-align: center;
+        padding-left: 450px;
             font-family: Inter;
             font-size: 41px;
             font-style: normal;
