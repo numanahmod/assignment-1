@@ -4,22 +4,22 @@ header{background-image: url('../resources/Banner\ Image.png');
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
-    lighting-color:blueviolet ;
+    lighting-color:lawngreen ;
     border-radius: 16px;
     }
     header h3{
         padding-top: 150px;
         padding-bottom: 0px;
-     color: #fff;
+     color:aqua;
     text-align: center;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
+    line-height: 30px;
     }
     header h1{
         padding-top: 0px;
-        color: #fff;
+        color:forestgreen;
         text-align: center;
         font-size: 70px;
         font-style: normal;
@@ -100,7 +100,7 @@ header{background-image: url('../resources/Banner\ Image.png');
         text-transform: capitalize;
         background-color:lightgoldenrodyellow;
         width: 1320px;
-        height: 350px;
+        height: 300px;
         flex-shrink: 0;}
         .join {color: white;
             text-align: center;
@@ -116,6 +116,42 @@ header{background-image: url('../resources/Banner\ Image.png');
             gap: 10px;
             border-radius: 8px;
             background: #F00;}
+.ftr-m {background: #070211; 
+    color: #070211;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;}
+.ftr{
+    display:flex;
+    padding: 50px; 
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;}
+.social-link{align-items: center;
+text-align: center;}
+
+.subs{ background-color:lightgoldenrodyellow;
+    text-align: center;
+    width: 1320px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);}
+.chobi{ 
+        width: 1600px;
+        height: 7335px; 
+        background: #FFF;
+        background-size:1300px 800px;
+        gap: 20px;
+        width: 424px;
+        height: 450px;
+        flex-shrink: 0;
+        border-radius: 16px;
+        background: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% 
+        }
     
     
     
